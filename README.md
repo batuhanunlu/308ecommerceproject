@@ -2,7 +2,7 @@
 
 SET UP
 
-git clone 
+git clone /n
 cd backend 
 python -m venv env
 .\env\Scripts\activate
