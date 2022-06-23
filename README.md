@@ -2,29 +2,29 @@
 
 SET UP
 
-git clone 
+1- git clone 
 
-cd backend 
+2- cd backend 
 
-python -m venv env 
+3- python -m venv env 
 
-.\env\Scripts\activate 
+4- .\env\Scripts\activate 
 
-cd .. 
+5- cd .. 
 
-pip install -r requirements.txt 
+6- pip install -r requirements.txt 
 
-python manage.py runserver 
+7- python manage.py runserver 
 
 
 
 WHEN OPENING AGAIN
 
-cd backend 
+1- cd backend 
 
-.\env\Scripts\activate 
+2- .\env\Scripts\activate 
 
-cd .. 
+3- cd .. 
 
-python manage.py runserver
+4- python manage.py runserver
 
